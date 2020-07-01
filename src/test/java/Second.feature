@@ -4,6 +4,6 @@ Feature: Title of your feature
 
 
   Scenario: Title of your scenario
-  * print "first feature file"
+  * print "Second feature file"
 
  
